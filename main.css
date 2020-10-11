@@ -1,0 +1,21 @@
+body{
+  font-family: sans-serif;
+}
+
+h4{
+  font-family: Niagara Engraved;
+  color: #123456;
+  font-size: 20pt;
+  margin-top: -1rem;
+  margin-left: 55rem;
+}
+
+canvas{
+  background: #36636365;
+  margin-top: -39.6rem;
+  margin-left: 10rem;
+}
+
+.boton{
+  margin-top: 0.5rem;
+}
